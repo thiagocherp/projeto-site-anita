@@ -4,6 +4,11 @@
     color: white;
 }
 
+.main {
+    width: 200px;
+    height: 200px;
+}
+
 .cabecalho {
     background-color: #273447;
     color: white;
