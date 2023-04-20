@@ -64,6 +64,13 @@
     margin: 80 0 0 0;
 }
 
+.professores{
+    background-color: slategray;
+    border-radius: 40px;
+    margin: 20px;
+    padding: 20px;
+}
+
 .main-inferior{
     background-color: #5F7D41;
     border-radius: 5%;
